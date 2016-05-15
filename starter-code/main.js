@@ -4,7 +4,7 @@ var cardThree = 'king';
 var cardFour = 'king';
 
 if (cardOne===cardTwo && cardThree===cardFour) {
-	alert ('You found a match!')
+	alert ('You found a match!');
 } else {
-	alert('Sorry, try again!')
+	alert('Sorry, try again!');
 }
